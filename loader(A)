@@ -1,6 +1,6 @@
 
 -- DO NOT TOUCH BELOW!!
---[Key = crackedbyswimhub (joke)]
+--[Key = crackedbyswimhub (AD)]
 getgenv().Key = crackedbyswimhub;
 local larp_loader = httpscodeberg.orgcsgofirepro7NewLoaderrawbranchmain
 local larp_assets = httpsraw.githubusercontent.comKompotasActualLirprefsheadsmain
